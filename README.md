@@ -37,31 +37,7 @@
 
 <!-- Add more badges here: https://shields.io / https://simpleicons.org -->
 
----
 
-## 📌 Featured projects
-
-<div align="center">
-
-[![DRF-Blog-site](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-701&repo=DRF-Blog-site&theme=radical&hide_border=true)](https://github.com/Cyber-701/DRF-Blog-site)
-[![Game_site](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-701&repo=Game_site&theme=radical&hide_border=true)](https://github.com/Cyber-701/Game_site)
-
-</div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Cyber-701&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-701&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Cyber-701&theme=radical&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
